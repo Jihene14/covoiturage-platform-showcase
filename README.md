@@ -168,31 +168,31 @@ The Angular application is organized into feature-based modules/components inclu
 
 ### Home
 
-![Home](docs/screenshots/home.png)
+![Home](screenshots/home.png)
 
 ### Trip Search & Listing
 
-![Trips](docs/screenshots/trips.png)
-![TripsList](docs/screenshots/Mytrips-list.png)
+![Trips](screenshots/trips.png)
+![TripsList](screenshots/Mytrips-list.png)
 ### Trip Details & Reservation
 
-![Reservations](docs/screenshots/reservations.png)
+![Reservations](screenshots/reservations.png)
 
 ### User Profile
 
-![Profile](docs/screenshots/profile.png)
+![Profile](screenshots/profile.png)
 
 ### Rating user
 
-![UserRating](docs/screenshots/user-rating.png)
+![UserRating](screenshots/user-rating.png)
 
 ### Notifications
 
-![Notifications](docs/screenshots/notifications.png)
+![Notifications](screenshots/notifications.png)
 
 ### Admin Dashboard
 
-![AdminDashboard](docs/screenshots/admin-dashboard.png)
+![AdminDashboard](screenshots/admin-dashboard.png)
 
 ---
 
